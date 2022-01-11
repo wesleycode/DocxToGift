@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DocxToGift": {
+      "commandName": "Project",
+      "commandLineArgs": "-p TD"
+    }
+  }
+}

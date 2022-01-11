@@ -1,0 +1,5 @@
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Release\net6.0\win-x64\publish\DocxToGift.exe
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Release\net6.0\win-x64\publish\DocxToGift.dll
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Release\net6.0\win-x64\publish\DocxToGift.deps.json
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Release\net6.0\win-x64\publish\DocxToGift.runtimeconfig.json
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Release\net6.0\win-x64\publish\DocxToGift.pdb

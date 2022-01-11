@@ -1,0 +1,15 @@
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Debug\net6.0\DocxToGift.exe
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Debug\net6.0\DocxToGift.deps.json
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Debug\net6.0\DocxToGift.runtimeconfig.json
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Debug\net6.0\DocxToGift.dll
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Debug\net6.0\ref\DocxToGift.dll
+D:\Projetos\C#\DocxToGift\DocxToGift\bin\Debug\net6.0\DocxToGift.pdb
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.csproj.AssemblyReference.cache
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.AssemblyInfoInputs.cache
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.AssemblyInfo.cs
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.dll
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\ref\DocxToGift.dll
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.pdb
+D:\Projetos\C#\DocxToGift\DocxToGift\obj\Debug\net6.0\DocxToGift.genruntimeconfig.cache
