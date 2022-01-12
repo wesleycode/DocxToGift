@@ -45,7 +45,7 @@ namespace DocxToGift.bo
             }
 
             // Ver se é um titulo de questão com outras formas de escrever, exemplo: QUESTÃO 1.{um espaço aqui, ou sem} //
-            if (Regex.IsMatch(text.ToUpper(), @"^(QUEST)(Ã|A)O\s*[0-9]*(\)|.)"))
+            if (Regex.IsMatch(text.ToUpper(), RegexUtilitarios.QUESTAO_COM_NUMERACAO))
             {
                 value = true;
             }
@@ -55,7 +55,7 @@ namespace DocxToGift.bo
         private static bool isUmaAlternativaDeQuestao(string text)
         {
             bool value = false;
-            if (Regex.IsMatch(text, @"^([a-zA-Z]{0,1}\))"))
+            if (Regex.IsMatch(text, RegexUtilitarios.APENAS_LETRAS_COM_FECHA_COLCHETES))
             {
                 value = true;
             }
@@ -80,8 +80,8 @@ namespace DocxToGift.bo
         
         private string RemoverIdentificacaoDaQuestao(string valor)
         {
-            string novoValor = Regex.Replace(valor.ToUpper(), @"^([a-zA-Z]{0,2}\)|[0-9]{0,2}\))", "");
-            novoValor = Regex.Replace(novoValor, @"^([0-9]{1,2}|((QUEST)(Ã|A)O\s*))([0-9]*[\)|\.])", "");
+            string novoValor = Regex.Replace(valor.ToUpper(), RegexUtilitarios.NUMERACAO_OU_LETRA_COM_FECHA_COLCHETES, "");
+            novoValor = Regex.Replace(novoValor, RegexUtilitarios.QUESTAO_COM_NUMERACAO, "");
             return novoValor;
         }
 

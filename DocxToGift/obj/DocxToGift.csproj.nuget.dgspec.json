@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\C#\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {}
+    "C:\\Users\\kakoa\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\C#\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {
+    "C:\\Users\\kakoa\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {
       "version": "0.2.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\C#\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
+        "projectUniqueName": "C:\\Users\\kakoa\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
         "projectName": "DocxToGift",
-        "projectPath": "D:\\Projetos\\C#\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
+        "projectPath": "C:\\Users\\kakoa\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
         "packagesPath": "C:\\Users\\kakoa\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\C#\\DocxToGift\\DocxToGift\\obj\\",
+        "outputPath": "C:\\Users\\kakoa\\Documents\\Projetos\\DocxToGift\\DocxToGift\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kakoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
