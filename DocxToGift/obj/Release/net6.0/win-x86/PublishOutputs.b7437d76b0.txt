@@ -1,0 +1,2 @@
+C:\Users\Pichau\Documents\Projetos\DocxToGift\DocxToGift\bin\Release\net6.0\publish\win-x86\DocxToGift.pdb
+C:\Users\Pichau\Documents\Projetos\DocxToGift\DocxToGift\bin\Release\net6.0\publish\win-x86\DocxToGift.exe

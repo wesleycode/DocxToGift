@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "77SIkRhbUyrQpBGmrBjRrGaPGOCzoGBbwIhhj1HBRebViC+/eo3RWa06VaAvZfyfTsfuf6JclpnyrTXv1i14BA==",
+  "dgSpecHash": "p3K+M5OeOXfgwYq6fdi7enau2sA/Edzae0zs0QJgAGXTMdfzGyyfKRP9pLY2QysF0LlWA9eIuPxML7QqscTewg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\C#\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kakoa\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.1\\microsoft.netcore.app.runtime.win-x86.6.0.1.nupkg.sha512",
-    "C:\\Users\\kakoa\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.1.nupkg.sha512",
-    "C:\\Users\\kakoa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x86.6.0.1.nupkg.sha512"
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.1\\microsoft.netcore.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x86.6.0.1.nupkg.sha512"
   ],
   "logs": []
 }
