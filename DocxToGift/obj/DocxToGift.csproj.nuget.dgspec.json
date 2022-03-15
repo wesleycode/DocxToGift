@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {}
+    "D:\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {
+    "D:\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj": {
       "version": "0.2.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
+        "projectUniqueName": "D:\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
         "projectName": "DocxToGift",
-        "projectPath": "C:\\Users\\Pichau\\Documents\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
-        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Documents\\Projetos\\DocxToGift\\DocxToGift\\obj\\",
+        "projectPath": "D:\\Projetos\\DocxToGift\\DocxToGift\\DocxToGift.csproj",
+        "packagesPath": "C:\\Users\\tiabd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\DocxToGift\\DocxToGift\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tiabd\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,12 +47,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[6.0.3, 6.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[6.0.3, 6.0.3]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[6.0.3, 6.0.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
         }
       }
     }

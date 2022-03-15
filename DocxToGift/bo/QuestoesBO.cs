@@ -1,4 +1,7 @@
-﻿using System.Text.RegularExpressions;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
 using DocxToGift.model;
 using DocxToGift.utils;
 
@@ -54,6 +57,7 @@ namespace DocxToGift.bo
 
         private static bool isUmaAlternativaDeQuestao(string text)
         {
+            // ReSharper disable once ReplaceWithSingleAssignment.False
             bool value = false;
             if (Regex.IsMatch(text, RegexUtilitarios.APENAS_LETRAS_COM_FECHA_COLCHETES))
             {
@@ -80,14 +84,14 @@ namespace DocxToGift.bo
         
         private string RemoverIdentificacaoDaQuestao(string valor)
         {
-            string novoValor = Regex.Replace(valor.ToUpper(), RegexUtilitarios.NUMERACAO_OU_LETRA_COM_FECHA_COLCHETES, "");
+            string novoValor = Regex.Replace(valor, RegexUtilitarios.NUMERACAO_OU_LETRA_COM_FECHA_COLCHETES, "");
             novoValor = Regex.Replace(novoValor, RegexUtilitarios.QUESTAO_COM_NUMERACAO, "");
             return novoValor;
         }
 
         private string RemoverAvisoDeRespostaCorretaDaString(string valor)
         {
-            string newValue = valor.ToUpper();
+            string newValue = valor;
             newValue = Regex.Replace(newValue, @"\({0,1}RESPOSTA CERTA\){0,1}", "");
             newValue = Regex.Replace(newValue, @"\({0,1}RESPOSTA CORRETA\){0,1}", "");
             newValue = Regex.Replace(newValue, @"\({0,1}QUESTÃO CERTA\){0,1}", "");

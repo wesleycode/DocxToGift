@@ -1,0 +1,2 @@
+D:\Projetos\DocxToGift\DocxToGift\bin\Release\net6.0\publish\DocxToGift.pdb
+D:\Projetos\DocxToGift\DocxToGift\bin\Release\net6.0\publish\DocxToGift.exe
